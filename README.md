@@ -76,10 +76,6 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
-
-
-
 ---
 
 Feel free to modify the content to better suit your project's specific details and requirements.
